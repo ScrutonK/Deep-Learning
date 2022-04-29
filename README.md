@@ -1,3 +1,3 @@
 # Deep-Learning
 
-included here will be all files pertaining to the course intro to AI and Deep learning and will focus on implimentation of Tensorflow and Keras for neural netwrok creation in google colab. 
+This code is used to make a CNN using keras and tensorflow to detect brain tumors in MRI images. See the associated Blog post for more details and a walkthrough of the teams work on this project. 
